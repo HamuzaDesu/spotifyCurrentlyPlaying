@@ -6,3 +6,6 @@ Small webapp I made using Vue and the Spotify API hosted with Netlify
 ## Features
 - See what is currently playing on Spotify
 - For Spotify Premium users: play, pause, skip forwards and backwards
+
+## To Add
+- Stats for top played etc
